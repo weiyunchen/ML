@@ -9,3 +9,4 @@
 - [密度聚类](https://nbviewer.jupyter.org/github/weiyunchen/MLML/blob/master/%E7%AC%94%E8%AE%B0%E8%AF%BE%E7%A8%8B%E6%95%B4%E7%90%86/%E5%AF%86%E5%BA%A6%E8%81%9A%E7%B1%BB%E6%96%B9%E6%B3%95.ipynb)
 - [时间序列数据处理](https://nbviewer.jupyter.org/github/weiyunchen/MLML/blob/master/%E7%AC%94%E8%AE%B0%E8%AF%BE%E7%A8%8B%E6%95%B4%E7%90%86/%E6%97%B6%E9%97%B4%E5%BA%8F%E5%88%97%E6%95%B0%E6%8D%AE%E5%A4%84%E7%90%86.ipynb)
 - [时间序列建模分析](https://nbviewer.jupyter.org/github/weiyunchen/MLML/blob/master/%E7%AC%94%E8%AE%B0%E8%AF%BE%E7%A8%8B%E6%95%B4%E7%90%86/%E6%97%B6%E9%97%B4%E5%BA%8F%E5%88%97%E5%BB%BA%E6%A8%A1%E5%88%86%E6%9E%90.ipynb)
+- [关联规则学习](https://nbviewer.jupyter.org/github/weiyunchen/MLML/blob/master/%E7%AC%94%E8%AE%B0%E8%AF%BE%E7%A8%8B%E6%95%B4%E7%90%86/%E5%85%B3%E8%81%94%E8%A7%84%E5%88%99%E5%AD%A6%E4%B9%A0.ipynb)
