@@ -1,5 +1,8 @@
 ## 机器学习流水帐
 > 炼丹，道教词语。为炼制外丹与内丹的统称。外丹术源于黄老道，是在丹炉中烧炼矿物以制造仙丹。其后将人体拟作炉鼎，用以习炼精气神，称为内丹术。改革开放后，近代科学赋予人类认识自然与改造自然的信心，炼丹术渐渐无人问津，人类面对自然时能理直气壮地说“我命由我不由天”。然而，二十一世纪初期，随着计划生育的落实和袁隆平先生对现代农业的推动，社会资源出现大量冗余，炼丹术再次兴起，西洋法师们以显卡为丹炉，通过蒸馏数据来提炼仙气，为社会输送了大量Jupyter Notebook。时至今日，炼丹术早已不再是神秘的封建法术，而是新时代的艺术，学而优则炼丹，无数青年怀揣着说唱梦想投入到了炼丹产业，古代炼丹家们的音乐信仰终于在两千年后由现代科学实现。
+
+<img src="https://github.com/weiyunchen/nlp/blob/master/faker.png" width="95%" hegiht="95%" align=center />
+
 #### 十八线炼丹项目
 古代的炼丹土方，谨慎使用。轻则精神失常，重则羽化飞天。
 - [交通流量分析(LSTM,GRU)](https://nbviewer.jupyter.org/github/weiyunchen/weiyunchen.github.io/blob/master/%E7%AE%80%E5%8D%95%E5%B0%8F%E9%A1%B9%E7%9B%AE/%E4%BA%A4%E9%80%9A%E6%B5%81%E9%87%8F%E5%88%86%E6%9E%90(LSTM%2CGRU).ipynb)
@@ -23,3 +26,6 @@
 #### 炼丹器材手册
 ###### TensorFlow
 - [TensorFlow 2.0 改动总结](https://nbviewer.jupyter.org/github/weiyunchen/weiyunchen.github.io/blob/master/tf/TensorFlow%202.0%20%E6%94%B9%E5%8A%A8%E7%89%B9%E6%80%A7.ipynb)
+#### NLP
+- [词云](https://nbviewer.jupyter.org/github/weiyunchen.github.io/blob/master/%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86/%E8%AF%8D%E4%BA%91.ipynb)
+- [中文处理](https://nbviewer.jupyter.org/github/weiyunchen.github.io/blob/master/%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86/%E4%B8%AD%E6%96%87%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86.ipynb)
