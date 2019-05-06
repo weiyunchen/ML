@@ -15,5 +15,5 @@
 - [关联规则学习](https://nbviewer.jupyter.org/github/weiyunchen/weiyunchen.github.io/blob/master/%E7%AC%94%E8%AE%B0%E8%AF%BE%E7%A8%8B%E6%95%B4%E7%90%86/%E5%85%B3%E8%81%94%E8%A7%84%E5%88%99%E5%AD%A6%E4%B9%A0.ipynb)
 #### 炼丹术一点通
 - [深度神经网络是否夸张地过拟合了](https://mp.weixin.qq.com/s?__biz=MzU1NDA4NjU2MA==&mid=2247496352&idx=2&sn=e965b288799f07591e8c00e76ca149a7&chksm=fbea4b6fcc9dc279105733036f3e9efd76e17aeb742cbe3d97f18352ba1dcc47dfdac3faba9d&scene=0&xtrack=1#rd)
-- [理解奇异值](https://www.matongxue.com/madocs/306.html)
+- [光速理解奇异值](https://www.matongxue.com/madocs/306.html)
 - [非凸优化](https://zhuanlan.zhihu.com/optimization)
