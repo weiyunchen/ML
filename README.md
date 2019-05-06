@@ -18,3 +18,5 @@
 - [光速理解奇异值](https://www.matongxue.com/madocs/306.html)
 - [非凸优化](https://zhuanlan.zhihu.com/optimization)
 - [Bert调用](https://www.kesci.com/home/project/5bfaa482954d6e001067396d/code)
+#### 炼丹炉手册
+- [TensorFlow 2.0 改动总结](https://github.com/weiyunchen/weiyunchen.github.io/blob/master/tf/TensorFlow%202.0%20%E6%94%B9%E5%8A%A8%E7%89%B9%E6%80%A7.ipynb)
