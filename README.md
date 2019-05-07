@@ -8,7 +8,7 @@
 > 时至今日，炼丹早已不再是禁忌的封建法术，而是犹如经历了文艺复兴，成为新时代的艺术，学而优则丹，无数有志青年怀揣着说唱梦想投入到了炼丹产业，古代炼丹家们的音乐信仰终于在两千年后由现代科学实现。
 
 
-<img src="https://github.com/weiyunchen/weiyunchen.github.io/blob/master/fm.png" width="95%" hegiht="95%" align=center />
+![](https://github.com/weiyunchen/weiyunchen.github.io/blob/master/fm.png)
 
 
 #### 十八线炼丹项目
