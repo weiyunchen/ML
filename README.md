@@ -37,8 +37,8 @@
 - [TensorFlow 2.0 改动总结](https://nbviewer.jupyter.org/github/weiyunchen/weiyunchen.github.io/blob/master/tf/TensorFlow%202.0%20%E6%94%B9%E5%8A%A8%E7%89%B9%E6%80%A7.ipynb)
 - [TF 2.0 构建线性回归和神经网络](https://nbviewer.jupyter.org/github/weiyunchen/weiyunchen.github.io/blob/master/tf/TF%202.0%20%E6%9E%84%E5%BB%BA%E7%BA%BF%E6%80%A7%E5%9B%9E%E5%BD%92%E5%92%8C%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C.ipynb)
 #### NLP
-- [词云](https://nbviewer.jupyter.org/github/weiyunchen.github.io/blob/master/%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86/%E8%AF%8D%E4%BA%91.ipynb)
-- [中文处理](https://nbviewer.jupyter.org/github/weiyunchen.github.io/blob/master/%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86/%E4%B8%AD%E6%96%87%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86.ipynb)
+- [词云](https://nbviewer.jupyter.org/github/weiyunchen/weiyunchen.github.io/blob/master/%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86/%E8%AF%8D%E4%BA%91.ipynb)
+- [中文处理](https://nbviewer.jupyter.org/github/weiyunchen/weiyunchen.github.io/blob/master/%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86/%E4%B8%AD%E6%96%87%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86.ipynb)
 ###### Keras处理IMDB影评
 
 - [数据准备](https://nbviewer.jupyter.org/github/weiyunchen/weiyunchen.github.io/blob/master/%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86/Keras_Imdb_Introduce.ipynb)
