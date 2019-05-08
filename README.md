@@ -41,7 +41,7 @@
 - [浅谈机器学习中应用的变分法](https://muyi110.github.io/2018/%E6%B5%85%E8%B0%88%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E4%B8%AD%E5%BA%94%E7%94%A8%E7%9A%84%E5%8F%98%E5%88%86%E6%B3%95/)
 
 
-#### 炼丹器材手册
+#### 炼丹神器使用手册
 ###### TensorFlow
 - [TensorFlow 2.0 改动总结](https://nbviewer.jupyter.org/github/weiyunchen/weiyunchen.github.io/blob/master/tf/TensorFlow%202.0%20%E6%94%B9%E5%8A%A8%E7%89%B9%E6%80%A7.ipynb)
 - [TF 2.0 构建线性回归和神经网络](https://nbviewer.jupyter.org/github/weiyunchen/weiyunchen.github.io/blob/master/tf/TF%202.0%20%E6%9E%84%E5%BB%BA%E7%BA%BF%E6%80%A7%E5%9B%9E%E5%BD%92%E5%92%8C%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C.ipynb)
