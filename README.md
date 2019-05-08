@@ -12,7 +12,7 @@
 
 
 #### 十八线炼丹项目
-古代的炼丹土方，谨慎使用。轻则精神失常，重则天外飞仙。
+早期的炼丹土方，谨慎使用。轻则精神失常，重则天外飞仙。
 - [交通流量分析(LSTM,GRU)](https://nbviewer.jupyter.org/github/weiyunchen/weiyunchen.github.io/blob/master/%E7%AE%80%E5%8D%95%E5%B0%8F%E9%A1%B9%E7%9B%AE/%E4%BA%A4%E9%80%9A%E6%B5%81%E9%87%8F%E5%88%86%E6%9E%90(LSTM%2CGRU).ipynb)
 - [豆瓣影评情感倾向预测](https://nbviewer.jupyter.org/github/weiyunchen/weiyunchen.github.io/blob/master/%E7%AE%80%E5%8D%95%E5%B0%8F%E9%A1%B9%E7%9B%AE/%E8%B1%86%E7%93%A3%E5%BD%B1%E8%AF%84%E6%83%85%E6%84%9F%E5%80%BE%E5%90%91%E9%A2%84%E6%B5%8B.ipynb)
 - [一线城市房价分析](https://nbviewer.jupyter.org/github/weiyunchen/weiyunchen.github.io/blob/master/%E7%AE%80%E5%8D%95%E5%B0%8F%E9%A1%B9%E7%9B%AE/%E4%B8%80%E7%BA%BF%E5%9F%8E%E5%B8%82%E6%88%BF%E4%BB%B7%E5%88%86%E6%9E%90.ipynb)
@@ -31,16 +31,42 @@
 - [深度神经网络是否夸张地过拟合了](https://mp.weixin.qq.com/s?__biz=MzU1NDA4NjU2MA==&mid=2247496352&idx=2&sn=e965b288799f07591e8c00e76ca149a7&chksm=fbea4b6fcc9dc279105733036f3e9efd76e17aeb742cbe3d97f18352ba1dcc47dfdac3faba9d&scene=0&xtrack=1#rd)
 - [光速理解奇异值](https://www.matongxue.com/madocs/306.html)
 - [非凸优化](https://zhuanlan.zhihu.com/optimization)
+- [如何评价BERT模型](https://www.zhihu.com/question/298203515/answer/579198043)
 - [Bert调用](https://www.kesci.com/home/project/5bfaa482954d6e001067396d/code)
+- [LGB中文文档](http://lightgbm.apachecn.org/#/)
+- [XGB中文文档](http://xgboost.apachecn.org/#/)
+- [sklearn中文文档](http://sklearn.apachecn.org/#/)
+- [RFE递归式特征消除](https://zhuanlan.zhihu.com/p/64900887)
+- [Numpy速查](https://zhuanlan.zhihu.com/p/27334246)
+- [浅谈机器学习中应用的变分法](https://muyi110.github.io/2018/%E6%B5%85%E8%B0%88%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E4%B8%AD%E5%BA%94%E7%94%A8%E7%9A%84%E5%8F%98%E5%88%86%E6%B3%95/)
+
+
 #### 炼丹器材手册
 ###### TensorFlow
 - [TensorFlow 2.0 改动总结](https://nbviewer.jupyter.org/github/weiyunchen/weiyunchen.github.io/blob/master/tf/TensorFlow%202.0%20%E6%94%B9%E5%8A%A8%E7%89%B9%E6%80%A7.ipynb)
 - [TF 2.0 构建线性回归和神经网络](https://nbviewer.jupyter.org/github/weiyunchen/weiyunchen.github.io/blob/master/tf/TF%202.0%20%E6%9E%84%E5%BB%BA%E7%BA%BF%E6%80%A7%E5%9B%9E%E5%BD%92%E5%92%8C%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C.ipynb)
+###### PyTorch
+- [PyTorch中文文档](https://pytorch-cn.readthedocs.io/zh/latest/)
+- [张量](https://nbviewer.jupyter.org/github/zergtant/pytorch-handbook/blob/master/chapter2/2.1.1.pytorch-basics-tensor.ipynb)
+- [自动求导](https://nbviewer.jupyter.org/github/zergtant/pytorch-handbook/blob/master/chapter2/2.1.2-pytorch-basics-autograd.ipynb)
+- [神经网络包nn和优化器optm](https://nbviewer.jupyter.org/github/zergtant/pytorch-handbook/blob/master/chapter2/2.1.3-pytorch-basics-nerual-network.ipynb)
+- [数据的加载和预处理](https://nbviewer.jupyter.org/github/zergtant/pytorch-handbook/blob/master/chapter2/2.1.4-pytorch-basics-data-lorder.ipynb)
+- [logistic回归二元分类](https://nbviewer.jupyter.org/github/zergtant/pytorch-handbook/blob/master/chapter3/3.1-logistic-regression.ipynb)
+- [深度学习基础及数学原理](https://nbviewer.jupyter.org/github/zergtant/pytorch-handbook/blob/master/chapter2/2.2-deep-learning-basic-mathematics.ipynb)
+- [神经网络简介](https://nbviewer.jupyter.org/github/zergtant/pytorch-handbook/blob/master/chapter2/2.3-deep-learning-neural-network-introduction.ipynb)
+- [卷积神经网络](https://nbviewer.jupyter.org/github/zergtant/pytorch-handbook/blob/master/chapter2/2.4-cnn.ipynb)
+- [CNN:MNIST数据集手写数字识别](https://nbviewer.jupyter.org/github/zergtant/pytorch-handbook/blob/master/chapter3/3.2-mnist.ipynb)
+- [循环神经网络](https://nbviewer.jupyter.org/github/zergtant/pytorch-handbook/blob/master/chapter2/2.5-rnn.ipynb)
+- [RNN实例：通过Sin预测Cos](https://nbviewer.jupyter.org/github/zergtant/pytorch-handbook/blob/master/chapter3/3.3-rnn.ipynb)
+- [Fine-tuning](https://nbviewer.jupyter.org/github/zergtant/pytorch-handbook/blob/master/chapter4/4.1-fine-tuning.ipynb)
+- [visdom可视化](https://nbviewer.jupyter.org/github/zergtant/pytorch-handbook/blob/master/chapter4/4.2.1-visdom.ipynb)
+- [tensorboardx](https://nbviewer.jupyter.org/github/zergtant/pytorch-handbook/blob/master/chapter4/4.2.2-tensorboardx.ipynb)
+- [可视化理解卷积神经网络](https://nbviewer.jupyter.org/github/zergtant/pytorch-handbook/blob/master/chapter4/4.2.3-cnn-visualizing.ipynb)
+- [Fast.ai](https://nbviewer.jupyter.org/github/zergtant/pytorch-handbook/blob/master/chapter4/4.3-fastai.ipynb)
+- [多GPU并行计算](https://nbviewer.jupyter.org/github/zergtant/pytorch-handbook/blob/master/chapter4/4.5-multiply-gpu-parallel-training.ipynb)
 #### NLP
 - [词云](https://nbviewer.jupyter.org/github/weiyunchen/weiyunchen.github.io/blob/master/%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86/%E8%AF%8D%E4%BA%91.ipynb)
 - [中文处理](https://nbviewer.jupyter.org/github/weiyunchen/weiyunchen.github.io/blob/master/%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86/%E4%B8%AD%E6%96%87%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86.ipynb)
-###### Keras处理IMDB影评
-
-- [数据准备](https://nbviewer.jupyter.org/github/weiyunchen/weiyunchen.github.io/blob/master/%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86/Keras_Imdb_Introduce.ipynb)
-- [RNN](https://nbviewer.jupyter.org/github/weiyunchen/weiyunchen.github.io/blob/master/%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86/Keras_Imdb_RNN.ipynb)
-- [LSTM](https://nbviewer.jupyter.org/github/weiyunchen/weiyunchen.github.io/blob/master/%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86/Keras_Imdb_LSTM.ipynb)
+- [Keras丶IMDB丶数据准备](https://nbviewer.jupyter.org/github/weiyunchen/weiyunchen.github.io/blob/master/%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86/Keras_Imdb_Introduce.ipynb)
+- [Keras丶IMDB丶RNN](https://nbviewer.jupyter.org/github/weiyunchen/weiyunchen.github.io/blob/master/%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86/Keras_Imdb_RNN.ipynb)
+- [Keras丶IMDB丶LSTM](https://nbviewer.jupyter.org/github/weiyunchen/weiyunchen.github.io/blob/master/%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86/Keras_Imdb_LSTM.ipynb)
