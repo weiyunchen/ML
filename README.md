@@ -12,7 +12,7 @@
 
 
 #### 街头算卦项目
-客官，我看你骨骼惊奇，天庭饱满，慧眼灵珠，聪明神慧，想必一定是万中无一,独纵荒古的搬砖奇才！
+客官，我看你骨骼惊奇，天庭饱满，慧眼灵珠，聪明神慧，想必一定是万中无一，独纵荒古的搬砖奇才！
 - [交通流量分析(LSTM,GRU)](https://nbviewer.jupyter.org/github/weiyunchen/weiyunchen.github.io/blob/master/%E7%AE%80%E5%8D%95%E5%B0%8F%E9%A1%B9%E7%9B%AE/%E4%BA%A4%E9%80%9A%E6%B5%81%E9%87%8F%E5%88%86%E6%9E%90(LSTM%2CGRU).ipynb)
 - [豆瓣影评情感倾向预测](https://nbviewer.jupyter.org/github/weiyunchen/weiyunchen.github.io/blob/master/%E7%AE%80%E5%8D%95%E5%B0%8F%E9%A1%B9%E7%9B%AE/%E8%B1%86%E7%93%A3%E7%94%B5%E5%BD%B1%E8%AF%84%E8%AE%BA%E6%83%85%E6%84%9F%E5%80%BE%E5%90%91%E9%A2%84%E6%B5%8B.ipynb)
 - [一线城市房价分析](https://nbviewer.jupyter.org/github/weiyunchen/weiyunchen.github.io/blob/master/%E7%AE%80%E5%8D%95%E5%B0%8F%E9%A1%B9%E7%9B%AE/%E4%B8%80%E7%BA%BF%E5%9F%8E%E5%B8%82%E6%88%BF%E4%BB%B7%E5%88%86%E6%9E%90.ipynb)
@@ -27,6 +27,7 @@
 - [时间序列建模分析](https://nbviewer.jupyter.org/github/weiyunchen/weiyunchen.github.io/blob/master/%E7%AC%94%E8%AE%B0%E8%AF%BE%E7%A8%8B%E6%95%B4%E7%90%86/%E6%97%B6%E9%97%B4%E5%BA%8F%E5%88%97%E5%BB%BA%E6%A8%A1%E5%88%86%E6%9E%90.ipynb)
 - [关联规则学习](https://nbviewer.jupyter.org/github/weiyunchen/weiyunchen.github.io/blob/master/%E7%AC%94%E8%AE%B0%E8%AF%BE%E7%A8%8B%E6%95%B4%E7%90%86/%E5%85%B3%E8%81%94%E8%A7%84%E5%88%99%E5%AD%A6%E4%B9%A0.ipynb)
 - [因素分解及 Prophet 使用](https://nbviewer.jupyter.org/github/weiyunchen/weiyunchen.github.io/blob/master/%E7%AC%94%E8%AE%B0%E8%AF%BE%E7%A8%8B%E6%95%B4%E7%90%86/%E5%9B%A0%E7%B4%A0%E5%88%86%E8%A7%A3%E5%8F%8A%20Prophet%20%E5%B7%A5%E5%85%B7%E4%BD%BF%E7%94%A8.ipynb)
+- [Numpy基本操作](https://nbviewer.jupyter.org/github/weiyunchen/weiyunchen.github.io/blob/master/%E7%AC%94%E8%AE%B0%E8%AF%BE%E7%A8%8B%E6%95%B4%E7%90%86/Numpy%E5%9F%BA%E6%9C%AC%E6%93%8D%E4%BD%9C.ipynb)
 #### 炼丹术一点通
 - [深度神经网络是否夸张地过拟合了](https://mp.weixin.qq.com/s?__biz=MzU1NDA4NjU2MA==&mid=2247496352&idx=2&sn=e965b288799f07591e8c00e76ca149a7&chksm=fbea4b6fcc9dc279105733036f3e9efd76e17aeb742cbe3d97f18352ba1dcc47dfdac3faba9d&scene=0&xtrack=1#rd)
 - [光速理解奇异值](https://www.matongxue.com/madocs/306.html)
