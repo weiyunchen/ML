@@ -40,6 +40,7 @@
 - [RFE递归式特征消除](https://zhuanlan.zhihu.com/p/64900887)
 - [Numpy速查](https://zhuanlan.zhihu.com/p/27334246)
 - [浅谈机器学习中应用的变分法](https://muyi110.github.io/2018/%E6%B5%85%E8%B0%88%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E4%B8%AD%E5%BA%94%E7%94%A8%E7%9A%84%E5%8F%98%E5%88%86%E6%B3%95/)
+- [NLP简单的数据增强技术](https://zhuanlan.zhihu.com/p/63182132)
 
 
 #### 炼丹神器使用手册
