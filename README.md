@@ -1,17 +1,7 @@
 ## 机器学习流水帐
-> 炼丹，道教术语。为炼制外丹与内丹的统称。外丹术源于黄老道，是在丹炉中烧炼矿物以制造仙丹。其后将人体拟作炉鼎用以习炼精气神，为内丹术。
-
-> 改革开放后，近代科学赋予人类认识自然与改造自然的信心，人类面对自然时能理直气壮地说“我命由我不由天”，炼丹术渐渐无人问津，销声匿迹。
-
-> 然而，二十一世纪初期，随着计划生育的落实和袁隆平先生对现代农业的推动，社会资源和信息出现大量冗余，炼丹术再次兴起，西洋法师们以显卡为丹炉，通过蒸馏数据来提炼仙气，为社会输送了大量Jupyter Notebook。
-
-> 时至今日，炼丹早已不再是禁忌的封建法术，而是犹如经历了文艺复兴，成为新时代的艺术，学而优则丹，无数有志青年怀揣着说唱梦想投入到了炼丹产业，古代炼丹家们的音乐信仰终于在两千年后由现代科学实现。
 
 
-![](https://github.com/weiyunchen/weiyunchen.github.io/blob/master/fm.png)
-
-
-#### 街头算卦项目
+####  几块钱的小项目
 少侠，我看你骨骼惊奇，天庭饱满，慧眼灵珠，聪明神慧，想必一定是万中无一，独纵荒古的搬砖奇才！
 - [交通流量分析(LSTM,GRU)](https://nbviewer.jupyter.org/github/weiyunchen/weiyunchen.github.io/blob/master/%E7%AE%80%E5%8D%95%E5%B0%8F%E9%A1%B9%E7%9B%AE/%E4%BA%A4%E9%80%9A%E6%B5%81%E9%87%8F%E5%88%86%E6%9E%90(LSTM%2CGRU).ipynb)
 - [豆瓣影评情感倾向预测](https://nbviewer.jupyter.org/github/weiyunchen/weiyunchen.github.io/blob/master/%E7%AE%80%E5%8D%95%E5%B0%8F%E9%A1%B9%E7%9B%AE/%E8%B1%86%E7%93%A3%E7%94%B5%E5%BD%B1%E8%AF%84%E8%AE%BA%E6%83%85%E6%84%9F%E5%80%BE%E5%90%91%E9%A2%84%E6%B5%8B.ipynb)
@@ -20,7 +10,7 @@
 - [医学论坛数据分析](https://nbviewer.jupyter.org/github/weiyunchen/weiyunchen.github.io/blob/master/%E7%AE%80%E5%8D%95%E5%B0%8F%E9%A1%B9%E7%9B%AE/%E5%8C%BB%E5%AD%A6%E8%AE%BA%E5%9D%9B%E7%9A%84%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90.ipynb)
 - [杭州数据分析岗位现状](https://nbviewer.jupyter.org/github/weiyunchen/weiyunchen.github.io/blob/master/%E7%AE%80%E5%8D%95%E5%B0%8F%E9%A1%B9%E7%9B%AE/%E6%9D%AD%E5%B7%9E%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E5%B2%97%E7%8E%B0%E7%8A%B6%E5%88%86%E6%9E%90.ipynb)
 - [保险数据分析](https://nbviewer.jupyter.org/github/weiyunchen/weiyunchen.github.io/blob/master/%E7%AE%80%E5%8D%95%E5%B0%8F%E9%A1%B9%E7%9B%AE/%E4%BF%9D%E9%99%A9%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90.ipynb)
-#### 炼丹笔记
+#### 笔记
 - [层次聚类](https://nbviewer.jupyter.org/github/weiyunchen/weiyunchen.github.io/blob/master/%E7%AC%94%E8%AE%B0%E8%AF%BE%E7%A8%8B%E6%95%B4%E7%90%86/%E5%B1%82%E6%AC%A1%E8%81%9A%E7%B1%BB%E6%96%B9%E6%B3%95.ipynb)
 - [密度聚类](https://nbviewer.jupyter.org/github/weiyunchen/weiyunchen.github.io/blob/master/%E7%AC%94%E8%AE%B0%E8%AF%BE%E7%A8%8B%E6%95%B4%E7%90%86/%E5%AF%86%E5%BA%A6%E8%81%9A%E7%B1%BB%E6%96%B9%E6%B3%95.ipynb)
 - [数据清洗方法](https://nbviewer.jupyter.org/github/weiyunchen/weiyunchen.github.io/blob/master/%E7%AC%94%E8%AE%B0%E8%AF%BE%E7%A8%8B%E6%95%B4%E7%90%86/%E6%95%B0%E6%8D%AE%E6%B8%85%E6%B4%97%E6%96%B9%E6%B3%95.ipynb)
@@ -32,7 +22,7 @@
 - [关联规则学习](https://nbviewer.jupyter.org/github/weiyunchen/weiyunchen.github.io/blob/master/%E7%AC%94%E8%AE%B0%E8%AF%BE%E7%A8%8B%E6%95%B4%E7%90%86/%E5%85%B3%E8%81%94%E8%A7%84%E5%88%99%E5%AD%A6%E4%B9%A0.ipynb)
 - [因素分解及 Prophet 使用](https://nbviewer.jupyter.org/github/weiyunchen/weiyunchen.github.io/blob/master/%E7%AC%94%E8%AE%B0%E8%AF%BE%E7%A8%8B%E6%95%B4%E7%90%86/%E5%9B%A0%E7%B4%A0%E5%88%86%E8%A7%A3%E5%8F%8A%20Prophet%20%E5%B7%A5%E5%85%B7%E4%BD%BF%E7%94%A8.ipynb)
 - [Numpy基本操作](https://nbviewer.jupyter.org/github/weiyunchen/weiyunchen.github.io/blob/master/%E7%AC%94%E8%AE%B0%E8%AF%BE%E7%A8%8B%E6%95%B4%E7%90%86/Numpy%E5%9F%BA%E6%9C%AC%E6%93%8D%E4%BD%9C.ipynb)
-#### 炼丹术一点通
+#### 速查
 - [深度神经网络是否夸张地过拟合了](https://mp.weixin.qq.com/s?__biz=MzU1NDA4NjU2MA==&mid=2247496352&idx=2&sn=e965b288799f07591e8c00e76ca149a7&chksm=fbea4b6fcc9dc279105733036f3e9efd76e17aeb742cbe3d97f18352ba1dcc47dfdac3faba9d&scene=0&xtrack=1#rd)
 - [光速理解奇异值](https://www.matongxue.com/madocs/306.html)
 - [非凸优化](https://zhuanlan.zhihu.com/optimization)
@@ -47,7 +37,7 @@
 - [NLP简单的数据增强技术](https://zhuanlan.zhihu.com/p/63182132)
 
 
-#### 炼丹神器使用手册
+#### TP
 ###### TensorFlow
 - [TensorFlow 2.0 改动总结](https://nbviewer.jupyter.org/github/weiyunchen/weiyunchen.github.io/blob/master/tf/TensorFlow%202.0%20%E6%94%B9%E5%8A%A8%E7%89%B9%E6%80%A7.ipynb)
 - [TF 2.0 构建线性回归和神经网络](https://nbviewer.jupyter.org/github/weiyunchen/weiyunchen.github.io/blob/master/tf/TF%202.0%20%E6%9E%84%E5%BB%BA%E7%BA%BF%E6%80%A7%E5%9B%9E%E5%BD%92%E5%92%8C%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C.ipynb)
