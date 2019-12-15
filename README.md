@@ -2,7 +2,7 @@
 
 
 ####  几块钱的小项目
-少侠，我看你骨骼惊奇，天庭饱满，慧眼灵珠，聪明神慧，想必一定是万中无一，独纵荒古的搬砖奇才！
+
 - [交通流量分析(LSTM,GRU)](https://nbviewer.jupyter.org/github/weiyunchen/weiyunchen.github.io/blob/master/%E7%AE%80%E5%8D%95%E5%B0%8F%E9%A1%B9%E7%9B%AE/%E4%BA%A4%E9%80%9A%E6%B5%81%E9%87%8F%E5%88%86%E6%9E%90(LSTM%2CGRU).ipynb)
 - [豆瓣影评情感倾向预测](https://nbviewer.jupyter.org/github/weiyunchen/weiyunchen.github.io/blob/master/%E7%AE%80%E5%8D%95%E5%B0%8F%E9%A1%B9%E7%9B%AE/%E8%B1%86%E7%93%A3%E7%94%B5%E5%BD%B1%E8%AF%84%E8%AE%BA%E6%83%85%E6%84%9F%E5%80%BE%E5%90%91%E9%A2%84%E6%B5%8B.ipynb)
 - [一线城市房价分析](https://nbviewer.jupyter.org/github/weiyunchen/weiyunchen.github.io/blob/master/%E7%AE%80%E5%8D%95%E5%B0%8F%E9%A1%B9%E7%9B%AE/%E4%B8%80%E7%BA%BF%E5%9F%8E%E5%B8%82%E6%88%BF%E4%BB%B7%E5%88%86%E6%9E%90.ipynb)
